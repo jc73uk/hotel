@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="e607f8e4db733200a0f670adbf9619e4" sys_domain="global" table="x_hotel_guest" version="3" view="Hotel">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user_name</element>
+            <position>0</position>
+            <sys_created_by>jason.clarke</sys_created_by>
+            <sys_created_on>2017-07-04 11:06:15</sys_created_on>
+            <sys_id>21f992b0dbff3200a0f670adbf9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_hotel_guest" sys_domain="global" view="660778e4db733200a0f670adbf96190f">e607f8e4db733200a0f670adbf9619e4</sys_ui_section>
+            <sys_updated_by>jason.clarke</sys_updated_by>
+            <sys_updated_on>2017-07-04 11:06:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>first_name</element>
+            <position>1</position>
+            <sys_created_by>jason.clarke</sys_created_by>
+            <sys_created_on>2017-07-04 11:06:15</sys_created_on>
+            <sys_id>a1f992b0dbff3200a0f670adbf9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_hotel_guest" sys_domain="global" view="660778e4db733200a0f670adbf96190f">e607f8e4db733200a0f670adbf9619e4</sys_ui_section>
+            <sys_updated_by>jason.clarke</sys_updated_by>
+            <sys_updated_on>2017-07-04 11:06:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_name</element>
+            <position>2</position>
+            <sys_created_by>jason.clarke</sys_created_by>
+            <sys_created_on>2017-07-04 11:06:15</sys_created_on>
+            <sys_id>25f992b0dbff3200a0f670adbf9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_hotel_guest" sys_domain="global" view="660778e4db733200a0f670adbf96190f">e607f8e4db733200a0f670adbf9619e4</sys_ui_section>
+            <sys_updated_by>jason.clarke</sys_updated_by>
+            <sys_updated_on>2017-07-04 11:06:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>jason.clarke</sys_created_by>
+            <sys_created_on>2017-07-04 11:06:15</sys_created_on>
+            <sys_id>a5f992b0dbff3200a0f670adbf9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_hotel_guest" sys_domain="global" view="660778e4db733200a0f670adbf96190f">e607f8e4db733200a0f670adbf9619e4</sys_ui_section>
+            <sys_updated_by>jason.clarke</sys_updated_by>
+            <sys_updated_on>2017-07-04 11:06:15</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>membership_number</element>
+            <position>4</position>
+            <sys_created_by>jason.clarke</sys_created_by>
+            <sys_created_on>2017-07-04 11:06:15</sys_created_on>
+            <sys_id>29f992b0dbff3200a0f670adbf9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_hotel_guest" sys_domain="global" view="660778e4db733200a0f670adbf96190f">e607f8e4db733200a0f670adbf9619e4</sys_ui_section>
+            <sys_updated_by>jason.clarke</sys_updated_by>
+            <sys_updated_on>2017-07-04 11:06:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vip</element>
+            <position>5</position>
+            <sys_created_by>jason.clarke</sys_created_by>
+            <sys_created_on>2017-07-04 11:06:15</sys_created_on>
+            <sys_id>a9f992b0dbff3200a0f670adbf9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_hotel_guest" sys_domain="global" view="660778e4db733200a0f670adbf96190f">e607f8e4db733200a0f670adbf9619e4</sys_ui_section>
+            <sys_updated_by>jason.clarke</sys_updated_by>
+            <sys_updated_on>2017-07-04 11:06:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_hotel_guest</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>jason.clarke</sys_created_by>
+            <sys_created_on>2017-07-03 09:15:35</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e607f8e4db733200a0f670adbf9619e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_hotel_guest</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope>
+            <sys_update_name>sys_ui_section_e607f8e4db733200a0f670adbf9619e4</sys_update_name>
+            <sys_updated_by>jason.clarke</sys_updated_by>
+            <sys_updated_on>2017-07-03 09:15:35</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Hotel" name="Hotel">660778e4db733200a0f670adbf96190f</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

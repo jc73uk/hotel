@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="ITIL Homepage">623ce2efdb6b3200a0f670adbf961955</dashboard>
+        <home>false</home>
+        <homepage display_value="ITIL Homepage">8b8aa066c611228901698cbe24ffd91e</homepage>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>jason.clarke</sys_created_by>
+        <sys_created_on>2017-06-30 15:13:40</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>aa3c6223dbab3200a0f670adbf9619ee</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>623ce2efdb6b3200a0f670adbf961955</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_aa3c6223dbab3200a0f670adbf9619ee</sys_update_name>
+        <sys_updated_by>jason.clarke</sys_updated_by>
+        <sys_updated_on>2017-06-30 15:13:40</sys_updated_on>
+        <tab display_value="New Tab">663ce2efdb6b3200a0f670adbf961959</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>
